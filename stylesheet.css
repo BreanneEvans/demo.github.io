@@ -1,0 +1,30 @@
+h1 {
+font-family: 'Bungee', cursive;
+color: #8c0444;
+}
+
+img {
+width: 1000px;
+opacity: 0.2;
+margin-top: 100px;
+}
+
+body {
+background-color:#ccbfb9;
+}
+
+p { 
+color: #ffe4e1;
+}
+
+a {
+color: #013179;
+font-size: 20px;
+text-decoration: none;
+}
+
+a:hover {
+color: #8c1567;
+font-size: 30px;
+}
+
